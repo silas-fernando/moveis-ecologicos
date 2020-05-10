@@ -12,6 +12,11 @@
 	</head>
 	<body onload="trocaBanner();">
 		<div class="container">
+<<<<<<< HEAD
+			<br>
+=======
+			<p></p>
+>>>>>>> design
 			<div class="jumbotron">
 				<h1>Móveis Ecológicos S. A.</h1>
 				<h2 id="mensagem" class="alert alert-info">
@@ -32,7 +37,6 @@
 					</li>
 				</ul>
 			</div>
-
 			<p class="text-muted text-right">
 				&copy; Copyright Móveis Ecológicos S. A.
 			</p>
